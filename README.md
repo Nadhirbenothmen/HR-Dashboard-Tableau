@@ -1,6 +1,5 @@
-# Human Resources Analytics Dashboard
-
-![Dashboard Banner](assets/images/HR_Summary.png)
+<h1 align="center">Human Resources Analytics Dashboard</h1>
+![Dashboard Banner](Dashboard.png)
 
 An enterprise-grade HR Business Intelligence solution built to satisfy the comprehensive tracking needs of HR management. The platform delivers a dual-layered approach: a high-level **Summary View** for executive strategic insights and a granular **Employee Records View** for deep-dive operational analysis.
 
