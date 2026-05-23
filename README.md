@@ -1,4 +1,4 @@
-<h1 align="center">Human Resources Analytics Dashboard</h1>
+<h1 align="center">📊 Human Resources Analytics Dashboard</h1>
 
 ![Dashboard Banner](Dashboard.png)
 
